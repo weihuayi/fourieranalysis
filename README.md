@@ -1,2 +1,11 @@
-# Introduction
+# 傅立叶分析简介
+
+
+这个仓库存放的是， 我们讨论班学习傅立叶分析之后形成的讲义。
+
+$$ x^2 + y^2 = 1 $$
+
+$$
+e^{i\theta} = \cos\theta + i\sin \theta
+$$
 
